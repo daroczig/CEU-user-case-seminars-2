@@ -29,6 +29,8 @@ Shorter session first:
 * May 8, 2023 (Wednesday) 16:45 - 17:00 intro
 * May 8, 2023 (Wednesday) 17:00 - 19:20 Alex Trickey (adtech)
 
+    Slides and data: https://github.com/alextrickey/ts_demo
+
 * May 15, 2023 (Wednesday) 16:45 - 18:15 Tamas Molnar (BT Group)
 * May 15, 2023 (Wednesday) 18:20 - 19:20 Neal Fultz (freelancer consultant)
 
