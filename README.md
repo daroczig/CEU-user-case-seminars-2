@@ -34,6 +34,8 @@ Shorter session first:
 * May 15, 2023 (Wednesday) 16:45 - 18:15 Tamas Molnar (BT Group)
 * May 15, 2023 (Wednesday) 18:20 - 19:20 Neal Fultz (freelancer consultant)
 
+    Slides: https://bit.ly/njnm2024
+
 * May 22, 2023 (Wednesday) 16:45 - 17:45 Ajay Gopal (building DS teams, healthtech)
 * May 22, 2023 (Wednesday) 16:50 - 19:20 Gergely Daroczi (healthtech)
 
