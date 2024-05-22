@@ -37,7 +37,7 @@ Shorter session first:
     Slides: https://bit.ly/njnm2024
 
 * May 22, 2023 (Wednesday) 16:45 - 17:45 Ajay Gopal (building DS teams, healthtech)
-* May 22, 2023 (Wednesday) 16:50 - 19:20 Gergely Daroczi (healthtech)
+* May 22, 2023 (Wednesday) 17:50 - 19:20 Gergely Daroczi (healthtech)
 
 * May 29, 2023 (Wednesday) 16:45 - 18:15 Dora Szabo and Alexander Pavlov (shapr3D)
 * May 29, 2023 (Wednesday) 18:20 - 19:20 Szilard Pafka (ML tools)
