@@ -39,8 +39,12 @@ Shorter session first:
 * May 22, 2023 (Wednesday) 16:45 - 17:45 Ajay Gopal (building DS teams, healthtech)
 * May 22, 2023 (Wednesday) 17:50 - 19:20 Gergely Daroczi (healthtech)
 
+    Slides: https://bit.ly/budapestml-2023-rxstudio
+
 * May 29, 2023 (Wednesday) 16:45 - 18:15 Dora Szabo and Alexander Pavlov (shapr3D)
 * May 29, 2023 (Wednesday) 18:20 - 19:20 Szilard Pafka (ML tools)
+
+    Slides: https://docs.google.com/presentation/d/1WApb_qrBX8kXaW4JFsiR4lLSbaKWESeREERt0AM1vZM/edit#slide=id.g53965d405_00
 
 ## Contact
 
